@@ -4,4 +4,4 @@ Repositori ini adalah repositori resmi Akira Group untuk aplikasi Fukunime (apli
 
 Isi repositori berfokus pada kebutuhan Akira ecosystem, dan sebagian project di dalamnya mungkin juga berguna untuk orang lain.
 
-https://anime.fainshe.com/home
+https://fukunime.zone.id/home
